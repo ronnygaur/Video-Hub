@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![React Logo](https://media1.tenor.com/m/_sRq7f0tQLEAAAAC/reactjs.gif)
+  
 ## Available Scripts
 
 In the project directory, you can run:
